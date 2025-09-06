@@ -1,0 +1,1 @@
+import{j as r,J as a,K as s}from"./index-Bn2uO6C7.js";function i(){return r.jsxs(a,{maxWidth:"lg",sx:{py:8},children:[r.jsx(s,{variant:"h2",sx:{mb:2},children:"Послуги"}),r.jsx(s,{children:"Детальні описи послуг та етапів робіт (заповнити під ваші процеси)."})]})}export{i as default};

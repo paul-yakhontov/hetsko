@@ -1,0 +1,1 @@
+import{j as r,J as t,K as s}from"./index-Bn2uO6C7.js";function n(){return r.jsxs(t,{maxWidth:"lg",sx:{py:8},children:[r.jsx(s,{variant:"h2",sx:{mb:2},children:"Про нас"}),r.jsx(s,{children:"Команда інженерів-геодезистів і землевпорядників з досвідом по всій Україні."})]})}export{n as default};
